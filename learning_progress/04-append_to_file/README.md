@@ -1,7 +1,6 @@
 # Append to File Example in Python
 ---
-
-This Python script demonstrates how to append content to an existing file using a context manager (`with` statement). It safely adds new lines without overwriting existing content.
+This Python script demonstrates how to append content to an existing file using a context manager (with statement). It safely adds new lines without overwriting existing content.
 ---
 
 ## How It Works
