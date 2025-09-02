@@ -30,4 +30,4 @@ This Python script reads a text file line by line, computes the MD5 hash of each
 ---
 ## Result
 * Algorithm hashed all the words in `rockyou.txt` at **33** seconds average.
---
+---
