@@ -27,7 +27,9 @@ This Python script reads a text file line by line, computes the MD5 hash of each
 * MD5 is not secure for cryptographic purposes but useful for learning and testing.
 * Using `latin-1` encoding and ignoring errors ensures the script can handle files with mixed or invalid characters.
 * Execution time varies based on file size and system performance.
+* Running the program back to back on the same wordlist will drastically improve perfomance as most of the text in wordfile would already be present in the RAM , 
 ---
 ## Result
 * Algorithm hashed all the words in `rockyou.txt` at **33** seconds average.
+* An average of 26.5 seconds was recorded when the program was run back to back on the same wordfile.
 ---
