@@ -53,7 +53,3 @@ MD5 Hash: 5d41402abc4b2a76b9719d911017c592
 - This script is primarily for learning, testing, or non-critical applications.
 
 ---
-
-## Author
-
-Created as a learning exercise to understand hashing in Python.
