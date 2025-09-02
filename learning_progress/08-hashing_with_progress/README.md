@@ -32,5 +32,6 @@ This Python script reads a text file line by line, computes the MD5 hash of each
 * Using `latin-1` encoding with `errors="ignore"` allows the script to handle files with mixed or invalid characters.
 * Processing speed depends on file size and system performance.
 ---
-##Result
+
+## Result
 * No change from 33 seconds average
