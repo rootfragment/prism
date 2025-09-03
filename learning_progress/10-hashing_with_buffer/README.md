@@ -39,5 +39,5 @@ This Python script reads a text file line by line, computes MD5 hashes in parall
 * Adjust `lines_per_write` or chunk size based on available system memory.
 
 ## Result
-* This algorithm hashed all words in `rockyou.txt` **4.10** seconds.
+* This algorithm hashed all words in `rockyou.txt` in  **4.10** seconds.
 * Runtime decreased by ~25.5% from parallel hashing.
