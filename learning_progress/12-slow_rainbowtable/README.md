@@ -40,4 +40,6 @@ Despite being impractical for real-world use, this project is useful for:
 - Learning how DBM databases work in Python.  
 - Understanding the basics of rainbow table-like storage.  
 - Demonstrating why naive approaches do not scale well.  
- 
+
+## Result
+- Painfully slow , didnt have enough patience to sit through the process.
